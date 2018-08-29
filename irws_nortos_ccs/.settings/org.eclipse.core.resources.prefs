@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//Release/Application/subdir_rules.mk=UTF-8
+encoding//Release/Application/subdir_vars.mk=UTF-8
+encoding//Release/CC2640R2_RSM/subdir_rules.mk=UTF-8
+encoding//Release/CC2640R2_RSM/subdir_vars.mk=UTF-8
+encoding//Release/HX711/subdir_rules.mk=UTF-8
+encoding//Release/HX711/subdir_vars.mk=UTF-8
+encoding//Release/Startup/subdir_rules.mk=UTF-8
+encoding//Release/Startup/subdir_vars.mk=UTF-8
+encoding//Release/TSOP38140/subdir_rules.mk=UTF-8
+encoding//Release/TSOP38140/subdir_vars.mk=UTF-8
+encoding//Release/makefile=UTF-8
+encoding//Release/objects.mk=UTF-8
+encoding//Release/smartrf_settings/subdir_rules.mk=UTF-8
+encoding//Release/smartrf_settings/subdir_vars.mk=UTF-8
+encoding//Release/sources.mk=UTF-8
